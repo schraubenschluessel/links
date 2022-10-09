@@ -548,3 +548,12 @@ button:hover,
 .button.button-letterboxd:focus {
   filter: brightness(90%);
 }
+
+.button.button-eventphone {
+  color: #fff;
+  background-color: #343a40;
+}
+.button.button-eventphone:hover,
+.button.button-eventphone:focus {
+  filter: brightness(90%);
+}
